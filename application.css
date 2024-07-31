@@ -1,0 +1,24 @@
+
+.title-label {
+    -fx-text-fill: #333;  
+    -fx-font-weight: bold;
+}
+
+
+.field-label {
+    -fx-text-fill: #333;
+}
+
+.text-field {
+    -fx-pref-width: 150px; 
+}
+
+.login-button {
+    -fx-background-color: #4CAF50; 
+    -fx-text-fill: white;
+    -fx-cursor: hand; 
+}
+
+.register-label {
+    -fx-text-fill: #aaa;
+}
